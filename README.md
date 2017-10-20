@@ -9,6 +9,7 @@ This project will be progressed parallel to my learming on deep learning on cour
 
 ## Code
 java
+<b>
 python
 
 ## Note
